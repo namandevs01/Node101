@@ -30,4 +30,4 @@ Each project has its own package.json. Install dependencies with:
 npm install
 ```
 
-Run individual projects as specified in their respective directories
+Run individual projects as specified in their respective directories.
